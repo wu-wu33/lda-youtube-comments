@@ -111,7 +111,7 @@ The script outputs the following files:
 - Adjust the λ slider to balance term frequency vs. exclusivity
 - Hover over terms to see their frequency
 
-For the interactive version, download [`youtube_lda_bubbles.html`](youtube_lda_bubbles.html) and open it in your browser.
+Live interactive version: https://wu-wu33.github.io/lda-youtube-comments/youtube_lda_bubbles.html
 
 ## Configuration
 
